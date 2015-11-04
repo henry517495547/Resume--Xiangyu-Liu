@@ -21,3 +21,9 @@ Mathematical Modeling Trainee, Xiamen University                                
 ●Participated in Chinese Undergraduate Mathematical Modeling Contest and achieved the first prize in province
 ●Focused on under-reaction of  Shanghai Composite Index and proposed the investor conservative psychology theory to account, student author of “Does Shanghai Composite Under-react” published in Xiamen University Journal
 ●Transformed practical problems into mathematical models and used C++ and MATLAB to solve them, also utilized SPSS, R, Eviews, Lingo, Minitab, and Gauss to perform factor analysis, canonical correlation analysis, graph theory, regression analysis, operational research and other statistical analysis
+
+SKILLS  AND EXAMS
+ Programming:  C, C++, MATLAB, R, Ruby, Octave
+ Others:  SPSS, Eviews, Lingo, Gauss, SAS, Minitab, Latex, Microsoft Office (Excel, Access, Outlook etc.)
+ Language:  Fluent in English, Mandarin and traditional Chinese. 
+ Exams:  FRM level I candidate scheduled on Nov. 2015
