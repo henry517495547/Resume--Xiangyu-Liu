@@ -27,3 +27,10 @@ SKILLS  AND EXAMS
  Others:  SPSS, Eviews, Lingo, Gauss, SAS, Minitab, Latex, Microsoft Office (Excel, Access, Outlook etc.)
  Language:  Fluent in English, Mandarin and traditional Chinese. 
  Exams:  FRM level I candidate scheduled on Nov. 2015
+ 
+ 
+ 
+ ACTIVITIES AND HONOR  
+ Chinese Top-notch Students Scientific Development Pilot Program (Mathematics)   
+Minister of Young Volunteer Association in Xiamen University     
+Leader of Chinese Undergraduate Innovation Team 
